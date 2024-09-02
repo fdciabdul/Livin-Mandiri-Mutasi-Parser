@@ -1,5 +1,5 @@
 
-#Prewview parsing
+# Preview parsing
 ![output_image_with_wrapped_text](https://github.com/user-attachments/assets/2620a851-01dc-473a-908c-570d1f213d9b)
 
 # Result 
